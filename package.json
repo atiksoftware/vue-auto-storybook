@@ -2,8 +2,8 @@
     "name": "vue-auto-storybook",
     "displayName": "Vue Auto Storybook",
     "description": "A Visual Studio Code extension that alphabetically organizes Vue component files' props and props defs sections and automatically generates Storybook files.",
-    "version": "1.0.2",
-    "publisher": "Mansur ATİK",
+    "version": "1.0.3",
+    "publisher": "atiksoftware",
     "author": {
         "name": "Mansur ATİK",
         "email": "atiksoftware@gmail.com"
